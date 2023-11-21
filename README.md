@@ -1,5 +1,5 @@
 # git_courses
-##notis for progicts 
+## notis for progicts 
 1
 2
 4
