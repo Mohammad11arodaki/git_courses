@@ -1,8 +1,5 @@
 # git_courses
-## notis for progicts 
-1
-2
-4
-5
+## pro for notyes 
+
 
 for elzero school git courses
